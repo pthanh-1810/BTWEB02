@@ -1,11 +1,11 @@
-package thanhtai.service;
+package pthanh.service;
 
-import thanhtai.model.User;
+import pthanh.model.User;
 
 import java.sql.Date;
 
-import thanhtai.dao.UserDao;
-import thanhtai.dao.UserDaoImpl;
+import pthanh.dao.UserDao;
+import pthanh.dao.UserDaoImpl;
 
 public class UserServiceImpl implements UserService {
 	UserDao userDao = new UserDaoImpl();
