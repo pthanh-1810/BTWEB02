@@ -1,13 +1,13 @@
-package thanhtai.controller;
+package pthanh.controller;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import thanhtai.service.UserService;
-import thanhtai.service.UserServiceImpl;
-import thanhtai.model.User;
+import pthanh.service.UserService;
+import pthanh.service.UserServiceImpl;
+import pthanh.model.User;
 
 import java.io.IOException;
 
