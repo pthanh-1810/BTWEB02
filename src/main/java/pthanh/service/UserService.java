@@ -1,6 +1,6 @@
-package thanhtai.service;
+package pthanh.service;
 
-import thanhtai.model.User;
+import pthanh.model.User;
 
 public interface UserService {
 	User login(String username, String password);
