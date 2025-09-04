@@ -9,7 +9,7 @@
     <description></description>
     <display-name>LogoutController</display-name>
     <servlet-name>LogoutController</servlet-name>
-    <servlet-class>thanhtai.controller.LogoutController</servlet-class>
+    <servlet-class>pthanh.controller.LogoutController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>LogoutController</servlet-name>
@@ -19,7 +19,7 @@
     <description></description>
     <display-name>ForgotPasswordController</display-name>
     <servlet-name>ForgotPasswordController</servlet-name>
-    <servlet-class>thanhtai.controller.ForgotPasswordController</servlet-class>
+    <servlet-class>pthanh.controller.ForgotPasswordController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>ForgotPasswordController</servlet-name>
